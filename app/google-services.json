@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "892912379373",
+    "firebase_url": "https://blogger-app-256511.firebaseio.com",
+    "project_id": "blogger-app-256511",
+    "storage_bucket": "blogger-app-256511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892912379373:android:6adfb631d5ec8b072173e4",
+        "android_client_info": {
+          "package_name": "com.cyberwith.blogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892912379373-h2b5cica0kss6ok60s2i9mogg0ns4qv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cyberwith.blogger",
+            "certificate_hash": "9d10789d8604806ddff133ac9de0d241387fea3e"
+          }
+        },
+        {
+          "client_id": "892912379373-eotap7vn8n6h5hcb57rjvklfmh6ut7v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEeTy3wSXSSyiySwO-OyRYb_xl-oQp-Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892912379373-eotap7vn8n6h5hcb57rjvklfmh6ut7v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

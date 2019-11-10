@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:show="navigation_view">
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/group1ID">
+
+        <item android:id="@+id/homeID"
+            android:title="Home"/>
+        <item android:id="@+id/androidID"
+            android:title="Android"/>
+        <item android:id="@+id/iosID"
+            android:title="IOS" />
+    </group>
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/group2ID">
+        <item android:title=" settings">
+            <menu>
+                <item android:id="@+id/settingID"
+                    android:title="Setting"/>
+                <item android:id="@+id/logOutID"
+                    android:title="Log Out"/>
+            </menu>
+        </item>
+
+
+    </group>
+
+</menu>

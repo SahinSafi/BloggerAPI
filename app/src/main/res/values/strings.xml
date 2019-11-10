@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Blogger</string>
+    <string name="api_key">https://www.googleapis.com/blogger/v3/blogs/7447077068242782774/posts?key=AIzaSyCRMTaYEGIR17whl3WBG7qDkJFTg1WACQw</string>
+</resources>
